@@ -1,7 +1,6 @@
-<b>**DARKER BOLD TITLE**</b>
 
 
-**Project Overview**
+<b>**Project Overview**</b>
 The goal of this project is to address the issue of class imbalance in machine learning datasets.It shows how various resampling strategies impact machine learning models performance and determines which strategy yields the best outcomes for minority class prediction.
 
 **Project Workflow**
